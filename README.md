@@ -1,13 +1,16 @@
-<h1 align="center">Hi there! I'm Kisara Kodithuwakku</h1>
-<h3 align="center">CS undergraduate with expertise in machine learning, data science and full-stack development.</h3>
+# Hi there! I'm Kisara Kodithuwakku
 
-<h3 align="left">Get In Touch</h3>
+### CS undergraduate with expertise in machine learning, data science and full-stack development.
+
+### Get In Touch
+
 <p align="left">
 <a href="https://linkedin.com/in/kisara-k" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kisara-k" height="30" width="40" /></a>
 <a href="https://kaggle.com/kisarak" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="kisarak" height="30" width="40" /></a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
+### Languages and Tools
+
 <p align="left"> 
   <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> 
@@ -41,20 +44,8 @@
   </a> 
 </p>
 
-<h3 align="left">Highlighted Projects:</h3>
-<table>
-  <thead>
-    <tr>
-      <th>Project Name</th>
-      <th>Description</th>
-      <th>Tech Stack</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td><a href="https://github.com/yourusername/ai-text-summarizer">AI Text Summarizer</a></td>
-      <td>Summarizes long articles using NLP techniques and transformers</td>
-      <td>Python, Hugging Face, Transformers</td>
-    </tr>
-  </tbody>
-</table>
+### Highlighted Projects:
+
+| Project Name | Description | Tech Stack |
+|--------------|-------------|------------|
+| [AI Text Summarizer](https://github.com/yourusername/ai-text-summarizer) | Summarizes long articles using NLP techniques and transformers | Python, Hugging Face, Transformers |
