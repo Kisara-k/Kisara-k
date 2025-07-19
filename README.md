@@ -96,6 +96,13 @@ Hi there! I'm,
 
 </div>
 
+### 📊 GitHub Stats
+<!--![](https://github-readme-stats.vercel.app/api?username=Kisara-k&theme=jolly&hide_border=false&include_all_commits=false&count_private=false)<br/>-->
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Kisara-k&theme=prussian&hide_border=false"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kisara-k&theme=prussian&hide_border=false&include_all_commits=true&count_private=true&layout=compact" width="356"/>
+</p>
+
 ### Get In Touch
 
 <p align="left">
