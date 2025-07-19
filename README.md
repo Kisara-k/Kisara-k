@@ -64,21 +64,35 @@ Hi there! I'm,
 <img src="https://github.com/Kisara-k/Kisara-k-assets/blob/main/icons/colab.png" width="48" title="Colab" />&#8239;
 <img src="https://github.com/Kisara-k/Kisara-k-assets/blob/main/icons/kaggle.png" width="48" title="Kaggle" />
 
-**Dev**
-  
-<img src="https://skillicons.dev/icons?i=git,postman&perline=4" />
-
 **Databases**
 
-<img src="https://skillicons.dev/icons?i=mongodb,mysql,postgresql&perline=3" />
+<img src="https://skillicons.dev/icons?i=mongodb" title="MongoDB" />&#8239;
+<img src="https://skillicons.dev/icons?i=mysql" title="MySQL" />&#8239;
+<img src="https://skillicons.dev/icons?i=postgresql" title="PostgreSQL" />
 
-**DevOps**
+**Dev / DevOps**
 
-<img src="https://skillicons.dev/icons?i=docker,azure,githubactions&perline=3" />
+<img src="https://skillicons.dev/icons?i=docker" title="Docker" />&#8239;
+<img src="https://skillicons.dev/icons?i=azure" title="Azure" />&#8239;
+<img src="https://skillicons.dev/icons?i=githubactions" title="GitHub Actions" />&#8239;
+<img src="https://skillicons.dev/icons?i=git" title="Git" />&#8239;
+<img src="https://skillicons.dev/icons?i=postman" title="Postman" />
 
 ### Would Love to Learn
 
-  <img src="https://skillicons.dev/icons?i=opencv,matlab,octave,elasticsearch,redis,grafana,kubernetes,kafka,aws,gcp,django,rust&perline=6" />
+<img src="https://skillicons.dev/icons?i=opencv" title="OpenCV" />&#8239;
+<img src="https://skillicons.dev/icons?i=matlab" title="MATLAB" />&#8239;
+<img src="https://skillicons.dev/icons?i=octave" title="GNU Octave" />&#8239;
+<img src="https://skillicons.dev/icons?i=elasticsearch" title="Elasticsearch" />&#8239;
+<img src="https://skillicons.dev/icons?i=redis" title="Redis" />&#8239;
+<img src="https://skillicons.dev/icons?i=grafana" title="Grafana" />&#8239;
+<br/>
+<img src="https://skillicons.dev/icons?i=kubernetes" title="Kubernetes" />&#8239;
+<img src="https://skillicons.dev/icons?i=kafka" title="Kafka" />&#8239;
+<img src="https://skillicons.dev/icons?i=aws" title="AWS" />&#8239;
+<img src="https://skillicons.dev/icons?i=gcp" title="Google Cloud" />&#8239;
+<img src="https://skillicons.dev/icons?i=django" title="Django" />&#8239;
+<img src="https://skillicons.dev/icons?i=rust" title="Rust" />
 
 </div>
 
