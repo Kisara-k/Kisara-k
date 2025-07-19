@@ -1,10 +1,15 @@
-### Whoami?
-
 Hi there! I'm, 
 **Kisara Kodithuwakku**
 
-**Data Scientist, NLP Engineer**
- <br>
+### **Data Scientist, NLP Engineer**
+
+**My Projects**
+
+| Name | Description | Tech Stack |
+|--------------|-------------|------------|
+| [Study Note Generator](https://github.com/yourusername/auto-lecture) | Automated lecture note generation using OpenAI API, including transcripts, key points, and Q&A with API cost tracking | Python, OpenAI API, Regex, Threading |
+
+
  
 <div align="center">
 
@@ -49,48 +54,33 @@ Hi there! I'm,
 
 ### Tools of Trade
 
-**ML / Dev**
+**ML / NLP**
 
-  <img src="https://github.com/Kisara-k/Kisara-k-assets/blob/main/icons/vllm.png" width="48" title="vLLM" />&#8239;
-  <img src="https://github.com/Kisara-k/Kisara-k-assets/blob/main/icons/runpod.png" width="48" title="RunPod" />&#8239;
-  <img src="https://skillicons.dev/icons?i=regex" title="Regex" />&#8239;
-  <img src="https://skillicons.dev/icons?i=anaconda" title="Anaconda" />
-  <br/>
-  <img src="https://github.com/Kisara-k/Kisara-k-assets/blob/main/icons/colab.png" width="48" title="Colab" />&#8239;
-  <img src="https://github.com/Kisara-k/Kisara-k-assets/blob/main/icons/kaggle.png" width="48" title="Kaggle" />
+<img src="https://github.com/Kisara-k/Kisara-k-assets/blob/main/icons/vllm.png" width="48" title="vLLM" />&#8239;
+<img src="https://github.com/Kisara-k/Kisara-k-assets/blob/main/icons/runpod.png" width="48" title="RunPod" />&#8239;
+<img src="https://skillicons.dev/icons?i=regex" title="Regex" />&#8239;
+<img src="https://skillicons.dev/icons?i=anaconda" title="Anaconda" />
+<br/>
+<img src="https://github.com/Kisara-k/Kisara-k-assets/blob/main/icons/colab.png" width="48" title="Colab" />&#8239;
+<img src="https://github.com/Kisara-k/Kisara-k-assets/blob/main/icons/kaggle.png" width="48" title="Kaggle" />
 
 **Dev**
   
-  <img src="https://skillicons.dev/icons?i=git,postman&perline=4" />
+<img src="https://skillicons.dev/icons?i=git,postman&perline=4" />
 
-  <p><strong>Databases</strong></p>
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgresql&perline=3" />
-  </a>
+**Databases**
 
-  <p><strong>DevOps</strong></p>
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=docker,azure,githubactions&perline=3" />
-  </a>
-  <br/>
+<img src="https://skillicons.dev/icons?i=mongodb,mysql,postgresql&perline=3" />
 
-  <br/>
+**DevOps**
 
+<img src="https://skillicons.dev/icons?i=docker,azure,githubactions&perline=3" />
 
 ### Would Love to Learn
 
   <img src="https://skillicons.dev/icons?i=opencv,matlab,octave,elasticsearch,redis,grafana,kubernetes,kafka,aws,gcp,django,rust&perline=6" />
 
 </div>
-  
-
-### Highlighted Projects:
-
-| Project Name | Description | Tech Stack |
-|--------------|-------------|------------|
-| [AI Text Summarizer](https://github.com/yourusername/ai-text-summarizer) | Summarizes long articles using NLP techniques and transformers | Python, Hugging Face, Transformers |
-
-
 
 ### Get In Touch
 
