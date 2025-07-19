@@ -1,6 +1,97 @@
-# Hi there! I'm Kisara Kodithuwakku
+### Whoami?
 
-### CS undergraduate with expertise in machine learning, data science and full-stack development.
+Hi there! I'm, 
+**Kisara Kodithuwakku**
+
+**Data Scientist, NLP Engineer**
+ <br>
+ 
+<div align="center">
+
+### Languages
+
+<div align="center">
+  
+  <img src="https://skillicons.dev/icons?i=python" title="Python" />
+  <img src="https://skillicons.dev/icons?i=java" title="Java" />
+  <img src="https://skillicons.dev/icons?i=cpp" title="C++" />
+  <img src="https://skillicons.dev/icons?i=c" title="C" />
+  <img src="https://skillicons.dev/icons?i=sql" title="SQL" />
+  <img src="https://skillicons.dev/icons?i=javascript" title="JavaScript" />
+  <img src="https://skillicons.dev/icons?i=typescript" title="TypeScript" />
+  <br/>
+
+  <img src="https://skillicons.dev/icons?i=powershell" title="PowerShell" />
+  <img src="https://skillicons.dev/icons?i=bash" title="Bash" />
+  <img src="https://uxwing.com/wp-content/themes/uxwing/download/file-and-folder-type/yaml-file-icon.png" width="45" height="45" title="YAML" />
+  <img src="https://skillicons.dev/icons?i=r" title="R" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/9/92/LaTeX_logo.svg" width="45" height="45" title="LaTeX" />
+  <img src="https://skillicons.dev/icons?i=html" title="HTML" />
+  <img src="https://skillicons.dev/icons?i=css" title="CSS" />
+  <br/>
+
+</div>
+
+  <h3>Frameworks & Libraries</h3>
+
+  <p><strong>ML / NLP</strong></p>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=torch,tensorflow,keras,scikitlearn&perline=4" />
+  </a>
+  <br/>
+  <img src="https://raw.githubusercontent.com/huggingface/transformers/main/docs/source/imgs/transformers_logo_name.png" width="120" title="Transformers" />
+
+  <p><strong>Web / Full Stack</strong></p>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=react,next,nodejs,express,fastapi,firebase,supabase,vercel&perline=4" />
+  </a>
+
+  <br/>
+
+  <h3>Tools of Trade</h3>
+
+  <p><strong>ML / Dev</strong></p>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,githubactions,postman,regex&perline=4" />
+  </a>
+  <br/>
+  
+  <img src="https://upload.wikimedia.org/wikipedia/commons/3/38/Jupyter_logo.svg" width="45" title="Jupyter" />
+  <img src="https://seeklogo.com/images/H/hugging-face-icon-logo-F576351A47-seeklogo.com.svg" width="45" title="Hugging Face" />
+  <img src="https://seeklogo.com/images/V/vllm-logo-8CBD9D1BEE-seeklogo.com.svg" width="45" title="vLLM" />
+  <img src="https://pbs.twimg.com/profile_images/1659657603909238786/xAAt9xZy_400x400.jpg" width="45" title="Runpod" />
+
+  <p><strong>Databases</strong></p>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgresql&perline=3" />
+  </a>
+
+  <p><strong>DevOps</strong></p>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=docker,kubernetes,azure&perline=3" />
+  </a>
+  <br/>
+
+  <br/>
+
+
+  <h3>Would Love to Learn</h3>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=matlab,aws,gcp,rust&perline=4" />
+  </a>
+
+  <br/>
+
+</div>
+  
+
+### Highlighted Projects:
+
+| Project Name | Description | Tech Stack |
+|--------------|-------------|------------|
+| [AI Text Summarizer](https://github.com/yourusername/ai-text-summarizer) | Summarizes long articles using NLP techniques and transformers | Python, Hugging Face, Transformers |
+
+
 
 ### Get In Touch
 
@@ -8,44 +99,3 @@
 <a href="https://linkedin.com/in/kisara-k" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kisara-k" height="30" width="40" /></a>
 <a href="https://kaggle.com/kisarak" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="kisarak" height="30" width="40" /></a>
 </p>
-
-### Languages and Tools
-
-<p align="left"> 
-  <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> 
-  </a> 
-  <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> 
-  </a> 
-  <a href="https://nodejs.org" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.python.org" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> 
-  </a> 
-  <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> 
-  </a> 
-  <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> 
-  </a> 
-</p>
-
-### Highlighted Projects:
-
-| Project Name | Description | Tech Stack |
-|--------------|-------------|------------|
-| [AI Text Summarizer](https://github.com/yourusername/ai-text-summarizer) | Summarizes long articles using NLP techniques and transformers | Python, Hugging Face, Transformers |
