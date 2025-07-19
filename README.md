@@ -7,7 +7,7 @@ Hi there! I'm,
 
 | Name | Description | Tech Stack |
 |--------------|-------------|------------|
-| [Study Note Generator](https://github.com/yourusername/auto-lecture) | Automated lecture note generation using OpenAI API, including transcripts, key points, and Q&A with API cost tracking | Python, OpenAI API, Regex, Threading |
+| [Study Note Generator](https://github.com/kisara-k/auto-lecture) | Automated lecture note generation using OpenAI API, including transcripts, key points, and Q&A with API cost tracking | Python, OpenAI API, Regex, Threading |
 
 
  
@@ -58,7 +58,7 @@ Hi there! I'm,
 
 <img src="https://github.com/Kisara-k/Kisara-k-assets/blob/main/icons/vllm.png" width="48" title="vLLM" />&#8239;
 <img src="https://github.com/Kisara-k/Kisara-k-assets/blob/main/icons/runpod.png" width="48" title="RunPod" />&#8239;
-<img src="https://skillicons.dev/icons?i=regex" title="Regex" />&#8239;
+<img src="https://github.com/Kisara-k/Kisara-k-assets/blob/main/icons/regex.png" width="48" title="Regex" />&#8239;
 <img src="https://skillicons.dev/icons?i=anaconda" title="Anaconda" />
 <br/>
 <img src="https://github.com/Kisara-k/Kisara-k-assets/blob/main/icons/colab.png" width="48" title="Colab" />&#8239;
