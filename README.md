@@ -35,10 +35,10 @@ Hi there! I'm,
 
 **ML / NLP**
 
-<img src="https://skillicons.dev/icons?i=pytorch" title="PyTorch" />&#8239;
-<img src="https://skillicons.dev/icons?i=tensorflow" title="TensorFlow" />&#8239;
-<img src="https://skillicons.dev/icons?i=sklearn" title="scikit-learn" />&#8239;
-<img src="https://github.com/Kisara-k/Kisara-k-assets/blob/main/icons/huggingface.png" width="48" title="Hugging Face" />
+<a href="https://pytorch.org/docs/" target="_blank"><img src="https://skillicons.dev/icons?i=pytorch" title="PyTorch" /></a>&#8239;
+<a href="https://www.tensorflow.org/api_docs" target="_blank"><img src="https://skillicons.dev/icons?i=tensorflow" title="TensorFlow" /></a>&#8239;
+<a href="https://scikit-learn.org/stable/documentation.html" target="_blank"><img src="https://skillicons.dev/icons?i=sklearn" title="Sklearn" /></a>&#8239;
+<a href="https://huggingface.co/docs" target="_blank"><img src="https://github.com/Kisara-k/Kisara-k-assets/blob/main/icons/huggingface.png?raw=true" width="48" title="Hugging Face" /></a>
 
 **Web / Full Stack**
 
