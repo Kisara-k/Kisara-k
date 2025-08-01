@@ -8,7 +8,7 @@ Hi there! I'm,
 | Name | Description | Tech Stack |
 |--------------|-------------|------------|
 | [Study Note Generator](https://github.com/kisara-k/auto-lecture) | Automated lecture note generation using OpenAI API, including transcripts, key points, and Q&A with API cost tracking | Python, OpenAI API, Regex, Threading |
-
+| [Kokoro TTS Audiobook](https://github.com/Kisara-k/kokoro-tts-source) | Application for converting structured documents (DOCX, PDF, JSON) into high-quality audiobooks using text cleaning and the Kokoro TTS pipeline | Python, PyMuPDF, pywin32, Kokoro TTS,
 
  
 <div align="center">
