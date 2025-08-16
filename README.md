@@ -18,18 +18,21 @@ Hi there! I'm,
 <img src="https://skillicons.dev/icons?i=python" title="Python" />
 <img src="https://skillicons.dev/icons?i=java" title="Java" />
 <img src="https://github.com/Kisara-k/Kisara-k-assets/blob/main/icons/sql.png" width="48" title="SQL" />
-<img src="https://skillicons.dev/icons?i=r" title="R" />
 <img src="https://skillicons.dev/icons?i=cpp" title="C++" />
 <img src="https://skillicons.dev/icons?i=javascript" title="JavaScript" />
 <img src="https://skillicons.dev/icons?i=typescript" title="TypeScript" />
 <br/>
-<img src="https://skillicons.dev/icons?i=powershell" title="PowerShell" />
 <img src="https://skillicons.dev/icons?i=bash" title="Bash" />
-<img src="https://github.com/Kisara-k/Kisara-k-assets/blob/main/icons/yaml.png" width="48" title="YAML" />
 <img src="https://github.com/Kisara-k/Kisara-k-assets/blob/main/icons/latex.png" width="48" title="LaTeX" />
+<img src="https://skillicons.dev/icons?i=r" title="R" />
 <img src="https://skillicons.dev/icons?i=c" title="C" />
 <img src="https://skillicons.dev/icons?i=html" title="HTML" />
 <img src="https://skillicons.dev/icons?i=css" title="CSS" />
+
+<!--
+<img src="https://skillicons.dev/icons?i=powershell" title="PowerShell" />
+<img src="https://github.com/Kisara-k/Kisara-k-assets/blob/main/icons/yaml.png" width="48" title="YAML" />
+-->
 
 ### Frameworks & Libraries
 
@@ -39,18 +42,23 @@ Hi there! I'm,
 <a href="https://www.tensorflow.org/api_docs" target="_blank"><img src="https://skillicons.dev/icons?i=tensorflow" title="TensorFlow" /></a>&#8239;
 <a href="https://scikit-learn.org/stable/documentation.html" target="_blank"><img src="https://skillicons.dev/icons?i=sklearn" title="Sklearn" /></a>&#8239;
 <a href="https://huggingface.co/docs" target="_blank"><img src="https://github.com/Kisara-k/Kisara-k-assets/blob/main/icons/huggingface.png?raw=true" width="48" title="Hugging Face" /></a>
+<img src="https://github.com/Kisara-k/Kisara-k-assets/blob/main/icons/langchain.png" width="48" title="Langchain" />&#8239;
+<img src="https://skillicons.dev/icons?i=opencv" title="OpenCV" />&#8239;
 
 **Web / Full Stack**
 
 <img src="https://skillicons.dev/icons?i=react" title="React" />&#8239;
 <img src="https://skillicons.dev/icons?i=next" title="Next.js" />&#8239;
 <img src="https://skillicons.dev/icons?i=nodejs" title="Node.js" />&#8239;
-<img src="https://skillicons.dev/icons?i=express" title="Express.js" />
-<br/>
 <img src="https://skillicons.dev/icons?i=fastapi" title="FastAPI" />&#8239;
 <img src="https://skillicons.dev/icons?i=firebase" title="Firebase" />&#8239;
 <img src="https://skillicons.dev/icons?i=supabase" title="Supabase" />&#8239;
+
+<!--
+<img src="https://skillicons.dev/icons?i=express" title="Express.js" />
+<br/>
 <img src="https://skillicons.dev/icons?i=vercel" title="Vercel" />
+-->
 
 ### Tools of Trade
 
@@ -60,7 +68,6 @@ Hi there! I'm,
 <img src="https://github.com/Kisara-k/Kisara-k-assets/blob/main/icons/runpod.png" width="48" title="RunPod" />&#8239;
 <img src="https://github.com/Kisara-k/Kisara-k-assets/blob/main/icons/regex.png" width="48" title="Regex" />&#8239;
 <img src="https://skillicons.dev/icons?i=anaconda" title="Anaconda" />
-<br/>
 <img src="https://github.com/Kisara-k/Kisara-k-assets/blob/main/icons/colab.png" width="48" title="Colab" />&#8239;
 <img src="https://github.com/Kisara-k/Kisara-k-assets/blob/main/icons/kaggle.png" width="48" title="Kaggle" />
 
@@ -80,19 +87,24 @@ Hi there! I'm,
 
 ### Would Love to Learn
 
-<img src="https://skillicons.dev/icons?i=opencv" title="OpenCV" />&#8239;
-<img src="https://skillicons.dev/icons?i=matlab" title="MATLAB" />&#8239;
-<img src="https://skillicons.dev/icons?i=octave" title="GNU Octave" />&#8239;
+<img src="https://github.com/Kisara-k/Kisara-k-assets/blob/main/icons/dask.png" width="48" title="Dask" />&#8239;
+<img src="https://skillicons.dev/icons?i=graphql" title="GraphQL" />&#8239;
+<img src="https://skillicons.dev/icons?i=go" title="Golang" />&#8239;
 <img src="https://skillicons.dev/icons?i=elasticsearch" title="Elasticsearch" />&#8239;
 <img src="https://skillicons.dev/icons?i=redis" title="Redis" />&#8239;
 <img src="https://skillicons.dev/icons?i=grafana" title="Grafana" />&#8239;
 <br/>
+<img src="https://skillicons.dev/icons?i=matlab" title="MATLAB" />&#8239;
+<img src="https://skillicons.dev/icons?i=octave" title="GNU Octave" />&#8239;
 <img src="https://skillicons.dev/icons?i=kubernetes" title="Kubernetes" />&#8239;
 <img src="https://skillicons.dev/icons?i=kafka" title="Kafka" />&#8239;
 <img src="https://skillicons.dev/icons?i=aws" title="AWS" />&#8239;
 <img src="https://skillicons.dev/icons?i=gcp" title="Google Cloud" />&#8239;
+
+<!--
 <img src="https://skillicons.dev/icons?i=django" title="Django" />&#8239;
 <img src="https://skillicons.dev/icons?i=rust" title="Rust" />
+-->
 
 </div>
 
