@@ -1,14 +1,14 @@
 Hi there! I'm, 
 **Kisara Kodithuwakku**
 
-### **Data Scientist, NLP Engineer**
-
-**My Projects**
+### My Projects
 
 | Name | Description | Tech Stack |
 |--------------|-------------|------------|
-| [Study Note Generator](https://github.com/kisara-k/auto-lecture) | Automated lecture note generation using OpenAI API, including transcripts, key points, and Q&A with API cost tracking | Python, OpenAI API, Regex, Threading |
-| [Kokoro TTS Audiobook](https://github.com/Kisara-k/kokoro-tts-source) | Application for converting structured documents (DOCX, PDF, JSON) into high-quality audiobooks using text cleaning and the Kokoro TTS pipeline | Python, PyMuPDF, pywin32, Kokoro TTS,
+| [Study Note](https://github.com/kisara-k/auto-lecture) | Automated lecture note generation using OpenAI API, including transcripts, key points, and Q&A with API cost tracking | Python, OpenAI API, Regex, Threading |
+| [Kokoro TTS Audiobook](https://github.com/Kisara-k/kokoro-tts-source) | Application for converting structured documents (DOCX, PDF, JSON) into high-quality audiobooks using text cleaning and the Kokoro TTS pipeline | Python, PyMuPDF, pywin32, Kokoro TTS
+| [YouTube Notes](https://github.com/Kisara-k/yt-note) | Application for storing notes for books and youtube videos, and extracting AI generated insights | Vercel, Supabase, OpenAI API
+| [Video Grid Viewer](https://github.com/Kisara-k/Video-Grid-Viewer) |  | 
 
  
 <div align="center">
@@ -118,6 +118,10 @@ Hi there! I'm,
 ### Get In Touch
 
 <p align="left">
-<a href="https://linkedin.com/in/kisara-k" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kisara-k" height="30" width="40" /></a>
-<a href="https://kaggle.com/kisarak" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="kisarak" height="30" width="40" /></a>
+  <a href="https://linkedin.com/in/kisara-k" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" />
+  </a>&nbsp;
+  <a href="https://kaggle.com/kisarak" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" height="30" />
+  </a>
 </p>
